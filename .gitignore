@@ -1,0 +1,19 @@
+*.class
+*/*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Intellij
+*.iml
+.idea
+target
+
+# Eclipse
+.project
+.settings
+.classpath
+.cache
+.metadata
